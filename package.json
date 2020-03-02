@@ -1,0 +1,16 @@
+{
+  "name": "expresslab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cart.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cars": "^1.1.6",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
